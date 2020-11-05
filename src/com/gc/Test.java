@@ -7,5 +7,6 @@ package com.gc;
 public class Test {
     public static void main(String[] args) {
         System.out.println("创建的项目");
+        System.out.println("新加的一行");
     }
 }
