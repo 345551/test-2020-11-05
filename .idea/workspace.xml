@@ -44,6 +44,21 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604579281768</updated>
       <workItem from="1604579284160" duration="3007000" />
-      <workItem from="1604582377863" duration="73000" />
+      <workItem from="1604582377863" duration="180000" />
     </task>
     <task id="LOCAL-00001" summary="我创建的项目">
       <created>1604581084122</created>
@@ -69,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604581768198</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="我创建的项目">
+      <created>1604582461618</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604582461618</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,21 +106,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1604579698930" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1604581766496">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1604582459165">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604581766496" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604582459165" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1604579690347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604579690347" />
-    <state x="270" y="56" key="SettingsEditor" timestamp="1604582451308">
+    <state x="270" y="56" key="SettingsEditor" timestamp="1604582561119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604582451308" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604581785379">
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604582561119" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604582554238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604581785379" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604582554238" />
   </component>
 </project>
